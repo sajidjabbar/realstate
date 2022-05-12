@@ -519,65 +519,81 @@
 
                         <div class="test-para">
 
-                            <h2>Logan Hartle</h2>
+                            <h2>Tony T</h2>
 
-                            <h3>Happy Clients</h3>
-
-                            <p>Working with Logan Hartle was a wonderful experience. Logan is knowledgeable,
-
-                                professional, efficient, and courteous. His follow-up is excellent, and he always
-
-                                answers questions promptly and completely. I couldn’t imagine working with anyone who
-
-                                could make a commercial real estate transaction go more smoothly and comfortably.</p>
-
-                            <div class="date">
-
-                                <p>Date: 20-08-22</p>
-
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
                             </div>
+
+                            <p>Working with Logan Hartle was a wonderful experience. Logan is knowledgeable, professional, efficient, and courteous. His follow-up is excellent and always answers questions promptly and completely. I couldn't imagine working with anyone who could make a commercial real estate transaction go more smoothly and comfortably.<br>
+
+<br>
+                                Thank you, Logan, for your hard work and contributions to the sale of our commercial property.</p>
+
+<!--                            <div class="date">-->
+<!---->
+<!--                                <p>Date: 20-08-22</p>-->
+<!---->
+<!--                            </div>-->
 
                         </div>
 
                         <div class="test-para">
 
-                            <h2>Tony Trado</h2>
+                            <h2>Jerry M</h2>
 
-                            <h3>Happy Clients</h3>
-
-                            <p>Thank you, Logan, for your hard work and contributions to the sale of our commercial
-
-                                property.</p>
-
-                            <div class="date">
-
-                                <p>Date: 20-08-22</p>
-
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
                             </div>
+
+                            <p>Logan Hartle contacted me about 4 months ago. He told me what area of real estate he specialized in and what he thought he could do for us.<br><br>
+                                He actually got us about 8% more from our property than our first asking price. He is professional - he follows up - his presentation of our property was A+ / He is also fun to work with.<br>
+                                I 100% endorse him - he knows what he is doing.<br><br>
+                                Jerry Mallonee</p><br>
+
+<!--                            <div class="date">-->
+<!---->
+<!--                                <p>Date: 20-08-22</p>-->
+<!---->
+<!--                            </div>-->
 
                         </div>
 
                         <div class="test-para">
 
-                            <h2>Jerry Mallonee</h2>
+                            <h2>Tammy Davis</h2>
 
-                            <h3>Happy Clients</h3>
-
-                            <p>Logan Hartle contacted me about 4 months ago. He told me what area of real estate
-
-                                solutions he specialized in and what he thought he could do for us. He actually got us
-
-                                about 8% more from our property than our first asking price. He is professional - he
-
-                                follows up - his presentation of our property was A+ / He is also fun to work with. I
-
-                                100% endorse him - he knows what he is doing.</p>
-
-                            <div class="date">
-
-                                <p>Date: 20-08-22</p>
-
+                            <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
                             </div>
+
+<!--                            <p>Logan Hartle contacted me about 4 months ago. He told me what area of real estate-->
+<!---->
+<!--                                solutions he specialized in and what he thought he could do for us. He actually got us-->
+<!---->
+<!--                                about 8% more from our property than our first asking price. He is professional - he-->
+<!---->
+<!--                                follows up - his presentation of our property was A+ / He is also fun to work with. I-->
+<!---->
+<!--                                100% endorse him - he knows what he is doing.</p>-->
+<!---->
+<!--                            <div class="date">-->
+<!---->
+<!--                                <p>Date: 20-08-22</p>-->
+<!---->
+<!--                            </div>-->
 
                         </div>
 
