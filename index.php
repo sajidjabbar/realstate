@@ -566,6 +566,7 @@
                                 <!--                            </div>-->
 
                             </div>
+<!--                            changes-->
 
                             <div class="test-para">
                                 <a href="https://www.google.com/maps/contrib/103282535777275926375/photos/@35.5148611,-80.8478005,10z/data=!4m3!8m2!3m1!1e1?hl=en-US" target="_blank">
